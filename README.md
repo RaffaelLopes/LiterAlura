@@ -1,4 +1,6 @@
 # Literalura
+![Badge Literalura](img/badge_literalura.png)
+
 
 Descrição
 
