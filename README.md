@@ -1,5 +1,6 @@
 # Literalura
-![Badge Literalura](img/badge_literalura.png)
+![Badge Literalura](img/badge_literalura.webp)
+
 
 
 Descrição
